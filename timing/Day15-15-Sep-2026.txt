@@ -1,0 +1,5 @@
+3:30 hr morning class
+2 hr understanding of k8s .tf files.
+15 minute evening class
+15 minute coping files on git
+20 minute introduction video 
