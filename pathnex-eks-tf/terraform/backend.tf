@@ -2,7 +2,7 @@ terraform {
   backend "s3" {
     bucket         = "pathnex-devops-terraform"
     key            = "batch/may/ansible/terraform.tfstate"
-    region         = "ap-south-1"
+    region         = "us-east-1"
   # dynamodb_table = "terraform-locks-aug" # optional but recommended
     encrypt        = true
     use_lockfile = true
